@@ -5,6 +5,12 @@ A deep learning model visualization and interpretation framework that helps unde
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![PyPI version](https://badge.fury.io/py/model-interpretability.svg)](https://badge.fury.io/py/model-interpretability)
+[![Documentation Status](https://readthedocs.org/projects/model-interpretability/badge/?version=latest)](https://model-interpretability.readthedocs.io/en/latest/?badge=latest)
+
+> 🎯 **Deep Learning Model Analysis Made Easy**: Visualize and understand your model's behavior, attention patterns, and decision boundaries with interactive visualizations.
+
+**Keywords**: `deep-learning` `model-interpretability` `visualization` `machine-learning` `attention-visualization` `pytorch` `model-analysis` `uncertainty-quantification`
 
 ## 🎯 Overview
 
