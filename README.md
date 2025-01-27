@@ -1,26 +1,24 @@
-# 🔍 Model Interpretability Framework
+# 🤖 Model Interpretability Framework
 
 A deep learning model visualization and interpretation framework that helps understand model behavior through interactive visualizations.
 
-[![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![PyPI version](https://badge.fury.io/py/model-interpretability.svg)](https://badge.fury.io/py/model-interpretability)
-[![Documentation Status](https://readthedocs.org/projects/model-interpretability/badge/?version=latest)](https://model-interpretability.readthedocs.io/en/latest/?badge=latest)
+[![Stars](https://img.shields.io/github/stars/Parisaroozgarian/model-interpretability?style=for-the-badge&logo=github&color=yellow)](https://github.com/Parisaroozgarian/model-interpretability/stargazers)
+[![PyPI Version](https://img.shields.io/pypi/v/model-interpretability?style=for-the-badge&logo=pypi&logoColor=white&color=blue)](https://pypi.org/project/model-interpretability/)
+[![Python](https://img.shields.io/pypi/pyversions/model-interpretability?style=for-the-badge&logo=python&logoColor=white&color=green)](https://www.python.org/)
+[![License](https://img.shields.io/github/license/Parisaroozgarian/model-interpretability?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=purple)](LICENSE)
+[![Tests](https://img.shields.io/github/actions/workflow/status/Parisaroozgarian/model-interpretability/python-tests.yml?style=for-the-badge&logo=github-actions&logoColor=white&label=tests)](https://github.com/Parisaroozgarian/model-interpretability/actions)
+[![Code style](https://img.shields.io/badge/code%20style-black-black?style=for-the-badge&logo=python&logoColor=white)](https://github.com/psf/black)
 
-> 🎯 **Deep Learning Model Analysis Made Easy**: Visualize and understand your model's behavior, attention patterns, and decision boundaries with interactive visualizations.
 
-**Keywords**: `deep-learning` `model-interpretability` `visualization` `machine-learning` `attention-visualization` `pytorch` `model-analysis` `uncertainty-quantification`
-
-## 🎯 Overview
+## 🌟 Overview
 
 This framework provides tools to analyze and visualize:
-- 🧠 Model attention patterns
-- 🎯 Token importance scores
-- 📊 Uncertainty landscapes
-- 🌐 Embedding spaces
+- 🧮 Model attention patterns
+- 📊 Token importance scores
+- 🎯 Uncertainty landscapes
+- 🔮 Embedding spaces
 - ⚡ Layer dynamics
-- 🔄 Decision boundaries
+- 🎲 Decision boundaries
 
 ## ✨ Key Features
 
